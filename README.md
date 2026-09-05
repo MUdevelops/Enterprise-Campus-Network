@@ -3,7 +3,8 @@
 A complete **Cisco Packet Tracer** project simulating a multi-site enterprise network — a **Main Campus** with eight departmental VLANs and internal servers, connected over a **WAN link** to a **Branch Campus** with its own staff and student VLANs.
 
 ![Enterprise Campus Network Topology](Screenshot/Enterprise%20Campus%20Network.png)
-
+![Branch Campus Network Topology](Screenshot/Branch%20Campus%20Network.png)
+![Connected Network](Screenshot/Connected%20Network.png)
 ---
 
 ## 📖 Overview
