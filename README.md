@@ -130,7 +130,7 @@ Enterprise-Campus-Network/
 ### Running the Project
 1. Clone or download this repository.
    ```bash
-   git clone https://github.com/MUdevelops/Enterprise-Campus-Network-.git
+   git clone https://github.com/MUdevelops/Enterprise-Campus-Network.git
    ```
 2. Open **Cisco Packet Tracer**.
 3. Load the `.pkt` file from the repository.
